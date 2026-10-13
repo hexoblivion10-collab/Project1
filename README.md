@@ -1,6 +1,6 @@
 https://hexoblivion10-collab.github.io/Project1/
 # Captured Forever — by Brown
-Live Link: https://https://hexoblivion10-collab.github.io/Project1/
+Live Link: https://hexoblivion10-collab.github.io/Project1/
 Photography is a way of feeling, touching, and loving. Better Code Safer Systems.
 
 Author: Brown — Photographer | Software Engineer + Cybersecurity Specialist
